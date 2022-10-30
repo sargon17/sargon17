@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sargon17&label=Profile%20views&color=0e75b6&style=flat" alt="sargon17" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React.js, Vue.js, PHP, Laravel and MySQL**
+- 🌱 I’m currently learning **JavaScript, React.js, Vue.js, Express, Laravel and MongoDB**
 
 - 📫 How to reach me **mykhaylo.tymofyeyev@gmail.com**
 
