@@ -5,7 +5,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Mykhaylo</h1>
-<h3 align="center">I'm learning Front-end and Back-end technologies with Boolean careers now</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sargon17&label=Profile%20views&color=0e75b6&style=flat" alt="sargon17" /> </p>
 
